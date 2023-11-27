@@ -1,6 +1,11 @@
 # Music Player Application
 
-Đây là mã nguồn cho ứng dụng Music Player, một ứng dụng di động cho phép người dùng nghe nhạc từ thiết bị của họ.
+Đây là mã nguồn cho ứng dụng Music Player (Music Player App).
+## Demo ứng dụng: 
+
+![1](https://github.com/lephamcong/group_4_music_player_app/assets/80463984/16598a3f-93c7-45a0-93db-679b113bad81)
+![2](https://github.com/lephamcong/group_4_music_player_app/assets/80463984/f93bc226-23aa-4cfc-bc02-e5552eeca5ae)
+![3](https://github.com/lephamcong/group_4_music_player_app/assets/80463984/cb39f9b9-ffb3-49b5-85f5-8df57a50ca41)
 
 ## Packages sử dụng
 
