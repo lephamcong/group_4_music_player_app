@@ -44,13 +44,16 @@ flutter run
 - [Lê Phạm Công ](https://github.com/lephamcong)
 + Team Lead
 + Triển khai dự án
++ Theo dõi, và kiểm tra lỗi
 + Xây dựng giao diện ứng dụng
 + Phát triển chức năng **Play/Pause** và chức năng **Tua nhanh bài hát**
-+ + Phát triển chức năng **phát trong nền**
++ Phát triển chức năng **phát trong nền**
 - [Đoàn Thế Lên](https://github.com/l-e-n-doan).
 + Phát triển chức năng **Phát toàn bộ danh sách** và **Phát một bài theo tùy chọn**
 + Phát triển chức năng **phát trong nền**
++ Test ứng dụng và kiểm tra lỗi 
 - [Huỳnh Nhật Ánh](https://github.com/hnanh99) - Mô tả về đóng góp của người này.
 + Phát triển chức năng **Hiển thị danh sách file mp3 lưu trong điện thoại** và **Chuyển bài hát trước đó hoặc tiếp theo khi đang phát bài hát**
 + Phát triển chức năng **phát trong nền**
++ Test ứng dụng và kiểm tra lỗi
 
