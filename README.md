@@ -38,7 +38,7 @@ flutter run
 - **Chuyển bài hát trước đó hoặc tiếp theo khi đang phát bài hát**
 - **Play/Pause**
 - **Tua nhanh bài hát**
-- **Chức năng phát trong nền: có mini screen trong thanh thông báo, trong mini screen có chức năng chuyển bài hát, play/pause, dừng phát nhạc, tua nhanh)
+- **Chức năng phát trong nền**: có mini screen trong thanh thông báo, trong mini screen có chức năng chuyển bài hát, play/pause, dừng phát nhạc, tua nhanh)
 
 ## Contributors:
 - [Lê Phạm Công ](https://github.com/lephamcong)
