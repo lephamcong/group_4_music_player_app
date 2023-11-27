@@ -17,7 +17,16 @@ Dưới đây là danh sách các packages được sử dụng trong dự án v
 
 ## Hướng Dẫn Cài Đặt
 
+### Clone repository về máy
 ```bash
 git clone https://github.com/lephamcong/group_4_music_player_app.git
-
+```
+### Truy cập tới thư mục group_4_music_player_app
+```bash
+flutter pub get
+```
+### Khởi chạy Flutter
+``` bash
+flutter run
+```
 
