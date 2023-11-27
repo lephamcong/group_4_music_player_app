@@ -52,7 +52,7 @@ flutter run
 + Phát triển chức năng **Phát toàn bộ danh sách** và **Phát một bài theo tùy chọn**
 + Phát triển chức năng **phát trong nền**
 + Test ứng dụng và kiểm tra lỗi 
-- [Huỳnh Nhật Ánh](https://github.com/hnanh99) - Mô tả về đóng góp của người này.
+- [Huỳnh Nhật Ánh](https://github.com/hnanh99)
 + Phát triển chức năng **Hiển thị danh sách file mp3 lưu trong điện thoại** và **Chuyển bài hát trước đó hoặc tiếp theo khi đang phát bài hát**
 + Phát triển chức năng **phát trong nền**
 + Test ứng dụng và kiểm tra lỗi
