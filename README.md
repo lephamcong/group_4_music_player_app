@@ -17,7 +17,7 @@ Dưới đây là danh sách các packages được sử dụng trong dự án v
 
 ## Hướng Dẫn Cài Đặt
 
-Để cài đặt dự án, bạn có thể sử dụng `pub get` để tải các dependencies cần thiết:
-
 ```bash
-flutter pub get
+git clone https://github.com/lephamcong/group_4_music_player_app.git
+
+
